@@ -1,7 +1,5 @@
 # SQL-Injection-Scanner
 
-# SQL Injection Scanner
-
 This script scans web applications for SQL injection vulnerabilities by testing input fields and URLs for common SQL errors.
 
 ## What is SQL Injection?
